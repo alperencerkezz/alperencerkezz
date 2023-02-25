@@ -7,7 +7,7 @@ Game Developer
 Games have been my passion ever since I was a kid, so much so that and I thought like why I'm not developing games. Because of that I decided to become a programmer to be able to join game development industry.
 
 * 🌍  I'm based in Istanbul, Turkiye
-* ✉️  You can contact me at [alperencerkezz@gmail.com](mailto:alperencerkezz@gmail.com)
+* ✉️  You can contact me at [alperencerkezdev@gmail.com](mailto:alperencerkezdev@gmail.com)
 * 🧠  I'm learning everything about Unity
 * 🤝  I'm open to collaborating on Hypercasual and VR games
 
