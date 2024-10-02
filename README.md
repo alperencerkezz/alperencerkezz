@@ -8,8 +8,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 About Me
 🎯 Currently focusing on: Swift, UIKit, and building iOS apps with clean, scalable architecture.
+
 🌱 Learning: SwiftUI and advanced iOS patterns like MVVM, MVC and Combine.
+
 💻 Technologies I work with: Swift, UIKit, Xcode, JSON, Git, Github, Gitlab.
+
 🚀 Looking forward to: Collaborating on open-source projects and contributing to the iOS developer community.
 
 
