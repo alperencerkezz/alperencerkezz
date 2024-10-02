@@ -7,6 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [alperencerkezdev@gmail.com](mailto:alperencerkezdev@gmail.com)
 
 About Me
+
 🎯 Currently focusing on: Swift, UIKit, and building iOS apps with clean, scalable architecture.
 
 🌱 Learning: SwiftUI and advanced iOS patterns like MVVM, MVC and Combine.
