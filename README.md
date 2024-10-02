@@ -1,9 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alperen
 ======================================================================================================================================
 
+* Welcome to my GitHub profile! I'm a Junior iOS Developer with a passion for building engaging and user-friendly mobile applications. I'm constantly learning and improving my skills in iOS development, and I love working on projects that challenge me to grow as a developer. Below, you'll find some highlights of my journey so far and the projects I've worked on.
 
 * 🌍  I'm based in Istanbul, Türkiye
 * ✉️  You can contact me at [alperencerkezdev@gmail.com](mailto:alperencerkezdev@gmail.com)
+
+About Me
+🎯 Currently focusing on: Swift, UIKit, and building iOS apps with clean, scalable architecture.
+🌱 Learning: SwiftUI and advanced iOS patterns like MVVM, MVC and Combine.
+💻 Technologies I work with: Swift, UIKit, Xcode, JSON, Git, Github, Gitlab.
+🚀 Looking forward to: Collaborating on open-source projects and contributing to the iOS developer community.
 
 
 ### Skills
