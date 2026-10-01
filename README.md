@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alperen
 ======================================================================================================================================
 
-* Welcome to my GitHub profile! I'm a Junior iOS Developer with a passion for building engaging and user-friendly mobile applications. I'm constantly learning and improving my skills in iOS development, and I love working on projects that challenge me to grow as a developer. Below, you'll find some highlights of my journey so far and the projects I've worked on.
+* Welcome to my GitHub profile! I'm an iOS Developer with a passion for building engaging and user-friendly mobile applications. I'm constantly learning and improving my skills in iOS development, and I love working on projects that challenge me to grow as a developer. Below, you'll find some highlights of my journey so far and the projects I've worked on.
 
 * 🌍  I'm based in Istanbul, Türkiye
 * ✉️  You can contact me at [alperencerkezdev@gmail.com](mailto:alperencerkezdev@gmail.com)
