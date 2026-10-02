@@ -1,6 +1,6 @@
 # Hi, I'm Alperen 👋
 
-iOS developer based in Istanbul, Türkiye. I build native apps with **Swift, SwiftUI and UIKit**, and I've designed, built and published **8 apps on the App Store** as an independent developer ([see them all](https://apps.apple.com/developer/alperen-cerkez/id1788173841)).
+iOS developer based in Istanbul, Türkiye. I build native apps with **Swift, SwiftUI and UIKit**, and I've designed, built and published **8 apps on the App Store** as an indie developer ([see them all](https://apps.apple.com/developer/alperen-cerkez/id1788173841)).
 
 I like tracing bugs down to their root cause, whether that's in the app, the logs or the database.
 
