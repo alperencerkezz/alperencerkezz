@@ -24,7 +24,7 @@ Blocks TikTok, Instagram, YouTube Shorts and X once daily limits are hit and rep
 
 - **iOS:** Swift · SwiftUI · UIKit · StoreKit · Screen Time API · Core Data · URLSession · Codable · MVVM · MVC
 - **Quality:** code review · debugging & root-cause analysis
-- **Growth:** ASO · SEO · paywall A/B testing · pricing · short-form video · Reddit · X · Product Hunt
+- **Growth:** ASO · SEO · onboarding & paywall A/B testing · pricing · short-form video · Reddit · X · Product Hunt
 - **Tools:** Xcode · Git · TestFlight · App Store Connect · Firebase · CocoaPods · RevenueCat · Mixpanel · SQL
 
 ## 📫 Contact
