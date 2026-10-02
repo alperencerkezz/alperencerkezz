@@ -2,7 +2,7 @@
 
 iOS developer based in Istanbul, Türkiye. I build native apps with **Swift, SwiftUI and UIKit**, and I've taken one from idea to the App Store on my own.
 
-Before focusing on iOS full-time, I worked as a Technical Support Engineer, debugging enterprise production systems down to the logs and the SQL. That root-cause mindset comes with me into every codebase.
+I like tracing bugs down to their root cause, whether that's in the app, the logs or the database.
 
 ## 📱 Featured work
 
@@ -27,8 +27,7 @@ A Netflix-style UIKit app for browsing and searching movies and TV shows, with Y
 
 - **iOS:** Swift · SwiftUI · UIKit · StoreKit · Screen Time API · Core Data · URLSession · Codable · MVVM · MVC
 - **Quality:** Unit testing · code review · debugging & root-cause analysis
-- **Tools:** Xcode · Git · TestFlight · App Store Connect · Firebase · CocoaPods · RevenueCat · Mixpanel
-- **Also:** Microsoft SQL Server · Windows Server · log analysis
+- **Tools:** Xcode · Git · TestFlight · App Store Connect · Firebase · CocoaPods · RevenueCat · Mixpanel · SQL
 
 ## 📫 Contact
 
