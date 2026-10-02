@@ -18,7 +18,7 @@ Blocks TikTok, Instagram, YouTube Shorts and X once daily limits are hit and rep
 - I own everything: architecture, UI/UX, App Store Connect release and post-launch growth
 
 ### More on the App Store
-[Telly](https://apps.apple.com/app/id6807102662) (floating teleprompter) · [InkPilot](https://apps.apple.com/app/id6757977356) (AI tattoo stencils) · [Morpho](https://apps.apple.com/app/id6755694135) (AI image generator) · [GutBuddy](https://apps.apple.com/app/id6755125719) (gut-health tracker) · [Focus](https://apps.apple.com/app/id6754821271) (Pomodoro timer) · [PawPlay](https://apps.apple.com/app/id6756238453) (cat game) · [TestoRise](https://apps.apple.com/app/id6756028129) (habit tracker)
+[Telly](https://apps.apple.com/app/id6807102662) (floating teleprompter) · [InkPilot](https://apps.apple.com/app/id6757977356) (AI tattoo stencils) · [Morpho](https://apps.apple.com/app/id6755694135) (AI image generator) · [GutBuddy](https://apps.apple.com/app/id6755125719) (gut-health tracker) · [Focus](https://apps.apple.com/app/id6754821271) (Pomodoro timer) · and more
 
 ## 🛠 Tech stack
 
