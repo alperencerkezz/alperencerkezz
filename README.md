@@ -38,4 +38,4 @@ A Netflix-style UIKit app for browsing and searching movies and TV shows, with Y
 - LinkedIn: [linkedin.com/in/alperencerkez](https://www.linkedin.com/in/alperencerkez)
 - Stack Overflow: [alperen-cerkez](https://www.stackoverflow.com/users/14576666/alperen-cerkez)
 
-Open to new opportunities in Türkiye and Europe.
+Open to new opportunities globally, remote or on-site.
