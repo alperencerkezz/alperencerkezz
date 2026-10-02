@@ -13,23 +13,18 @@ Blocks TikTok, Instagram, YouTube Shorts and X once daily limits are hit and rep
 
 - Swift + SwiftUI, Screen Time API
 - Three-tier StoreKit subscription via RevenueCat; activation and paywall funnel tracked in Mixpanel
+- **+33% trial conversion** through paywall A/B testing and pricing optimization
 - Regular updates since the January 2025 launch, now v2.1 as a universal iPhone and iPad app
 - I own everything: architecture, UI/UX, App Store Connect release and post-launch growth
 
 ### More on the App Store
 [Telly](https://apps.apple.com/app/id6807102662) (floating teleprompter) · [InkPilot](https://apps.apple.com/app/id6757977356) (AI tattoo stencils) · [Morpho](https://apps.apple.com/app/id6755694135) (AI image generator) · [GutBuddy](https://apps.apple.com/app/id6755125719) (gut-health tracker) · [Focus](https://apps.apple.com/app/id6754821271) (Pomodoro timer) · [PawPlay](https://apps.apple.com/app/id6756238453) (cat game) · [TestoRise](https://apps.apple.com/app/id6756028129) (habit tracker)
 
-### [Alpflix](https://github.com/alperencerkezz/Alpflix)
-A Netflix-style UIKit app for browsing and searching movies and TV shows, with YouTube trailers and offline saving.
-
-- UIKit, MVVM view models
-- TMDB and YouTube REST APIs via URLSession + Codable
-- Core Data persistence
-
 ## 🛠 Tech stack
 
 - **iOS:** Swift · SwiftUI · UIKit · StoreKit · Screen Time API · Core Data · URLSession · Codable · MVVM · MVC
-- **Quality:** Unit testing · code review · debugging & root-cause analysis
+- **Quality:** code review · debugging & root-cause analysis
+- **Growth:** ASO · SEO · paywall A/B testing · pricing · short-form video · Reddit · X · Product Hunt
 - **Tools:** Xcode · Git · TestFlight · App Store Connect · Firebase · CocoaPods · RevenueCat · Mixpanel · SQL
 
 ## 📫 Contact
