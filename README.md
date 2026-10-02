@@ -1,6 +1,6 @@
 # Hi, I'm Alperen 👋
 
-iOS developer based in Istanbul, Türkiye. I build native apps with **Swift, SwiftUI and UIKit**, and I've designed, built and published **8 apps on the App Store** as an indie developer ([see them all](https://apps.apple.com/developer/alperen-cerkez/id1788173841)).
+iOS developer based in Istanbul, Türkiye. I build native apps with **Swift, SwiftUI and UIKit**, and I've built and shipped **8 apps on the App Store** to learn the full product lifecycle, from code to App Store to growth ([see them all](https://apps.apple.com/developer/alperen-cerkez/id1788173841)).
 
 I like tracing bugs down to their root cause, whether that's in the app, the logs or the database.
 
@@ -33,4 +33,4 @@ Blocks TikTok, Instagram, YouTube Shorts and X once daily limits are hit and rep
 - LinkedIn: [linkedin.com/in/alperencerkez](https://www.linkedin.com/in/alperencerkez)
 - Stack Overflow: [alperen-cerkez](https://www.stackoverflow.com/users/14576666/alperen-cerkez)
 
-Open to new opportunities globally, remote or on-site.
+Now looking to bring this hands-on product experience into a team building apps at scale. Open to opportunities globally, remote or on-site.
