@@ -13,7 +13,7 @@ Blocks TikTok, Instagram, YouTube Shorts and X once daily limits are hit and rep
 
 - Swift + SwiftUI, Screen Time API
 - Three-tier StoreKit subscription via RevenueCat; activation and paywall funnel tracked in Mixpanel
-- ~95% test coverage across 2,000+ lines of Swift
+- Regular updates since the January 2025 launch, now v2.1 as a universal iPhone and iPad app
 - I own everything: architecture, UI/UX, App Store Connect release and post-launch growth
 
 ### More on the App Store
