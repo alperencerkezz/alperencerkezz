@@ -2,7 +2,7 @@
 
 iOS developer based in Istanbul, Türkiye. I build native apps with **Swift, SwiftUI and UIKit**, and I've taken one from idea to the App Store on my own.
 
-By day I'm a Technical Support Engineer, debugging enterprise production systems down to the logs and the SQL. That root-cause mindset comes with me into every codebase.
+Before focusing on iOS full-time, I worked as a Technical Support Engineer, debugging enterprise production systems down to the logs and the SQL. That root-cause mindset comes with me into every codebase.
 
 ## 📱 Featured work
 
