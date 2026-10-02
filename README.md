@@ -7,7 +7,7 @@ Before focusing on iOS full-time, I worked as a Technical Support Engineer, debu
 ## 📱 Featured work
 
 ### [SmartScroll: Scroll & Learn](https://apps.apple.com/us/app/smartscroll-scroll-learn/id6740744254) · live on the App Store
-**2,200+ downloads · 4.8/5 rating**
+**2,200+ downloads · 4.8/5 rating** · [smartscrollapp.com](https://smartscrollapp.com)
 
 A solo-built iOS app that interrupts doomscrolling with Screen Time triggers, breathing exercises and micro-learning cards.
 
