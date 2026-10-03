@@ -1,6 +1,6 @@
 # Hi, I'm Alperen 👋
 
-iOS developer based in Istanbul, Türkiye. I build native apps with **Swift, SwiftUI and UIKit**, and I've built and shipped **8 apps on the App Store** to learn the full product lifecycle, from code to App Store to growth ([see them all](https://apps.apple.com/developer/alperen-cerkez/id1788173841)).
+iOS developer based in Istanbul, Türkiye, working with **Swift, SwiftUI and UIKit**. I've built and shipped **8 apps on the App Store** to learn the full product lifecycle, from code to App Store to growth ([see them all](https://apps.apple.com/developer/alperen-cerkez/id1788173841)).
 
 I like tracing bugs down to their root cause, whether that's in the app, the logs or the database.
 
@@ -12,10 +12,10 @@ I like tracing bugs down to their root cause, whether that's in the app, the log
 Blocks TikTok, Instagram, YouTube Shorts and X once daily limits are hit and replaces the scroll with bite-sized knowledge cards, plus custom schedules and a Life Grid screen-time view.
 
 - Swift + SwiftUI, Screen Time API
-- Three-tier StoreKit subscription via RevenueCat; activation and paywall funnel tracked in Mixpanel
+- Three-tier StoreKit subscription via RevenueCat; onboarding, activation and paywall funnel tracked in Mixpanel
 - **+33% trial conversion** through paywall A/B testing and pricing optimization
 - Regular updates since the January 2025 launch, now v2.1 as a universal iPhone and iPad app
-- I own everything: architecture, UI/UX, App Store Connect release and post-launch growth
+- Built end to end: architecture, UI/UX, App Store Connect release and post-launch growth
 
 ### More on the App Store
 [Telly](https://apps.apple.com/app/id6807102662) (floating teleprompter) · [InkPilot](https://apps.apple.com/app/id6757977356) (AI tattoo stencils) · [Morpho](https://apps.apple.com/app/id6755694135) (AI image generator) · [GutBuddy](https://apps.apple.com/app/id6755125719) (gut-health tracker) · [Focus](https://apps.apple.com/app/id6754821271) (Pomodoro timer) · and more
