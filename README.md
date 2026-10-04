@@ -12,7 +12,7 @@ I like tracing bugs down to their root cause, whether that's in the app, the log
 Blocks TikTok, Instagram, YouTube Shorts and X once daily limits are hit and replaces mindless scrolling with bite-sized knowledge cards, plus custom schedules and a Life Grid screen-time view.
 
 - Swift + SwiftUI; blocking engine built on Apple's Screen Time API with FamilyControls, ManagedSettings and a DeviceActivityMonitor extension that enforces daily limits and custom schedules in the background
-- StoreKit in-app purchases via RevenueCat with weekly and annual plans (7-day free trial); onboarding, activation and paywall funnel tracked in Mixpanel
+- StoreKit in-app purchases via RevenueCat with weekly and annual plans; onboarding, activation and paywall funnel tracked in Mixpanel
 - **+33% paywall-to-trial conversion** through paywall A/B testing and pricing optimization
 - Universal iPhone and iPad app, maintained with regular updates since the January 2025 launch
 - Built end to end: architecture, UI/UX, App Store Connect release and post-launch growth
