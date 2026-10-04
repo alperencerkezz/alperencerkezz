@@ -1,6 +1,6 @@
 # Hi, I'm Alperen 👋
 
-iOS developer based in Istanbul, Türkiye, working with **Swift, SwiftUI and UIKit**. I've built and shipped **8 apps on the App Store** to learn the full product lifecycle, from code to App Store to growth ([see them all](https://apps.apple.com/developer/alperen-cerkez/id1788173841)).
+iOS developer based in Istanbul, Türkiye, working with **Swift, SwiftUI and UIKit**. I've built and published **8 apps on the App Store**, with hands-on experience across development, subscriptions, analytics and App Store growth ([see them all](https://apps.apple.com/developer/alperen-cerkez/id1788173841)).
 
 I like tracing bugs down to their root cause, whether that's in the app, the logs or the database.
 
@@ -9,12 +9,12 @@ I like tracing bugs down to their root cause, whether that's in the app, the log
 ### [SmartScroll: Quit Doomscroll](https://apps.apple.com/app/id6740744254) · flagship app
 **2,200+ downloads · 4.8/5 rating** · [smartscrollapp.com](https://smartscrollapp.com)
 
-Blocks TikTok, Instagram, YouTube Shorts and X once daily limits are hit and replaces the scroll with bite-sized knowledge cards, plus custom schedules and a Life Grid screen-time view.
+Blocks TikTok, Instagram, YouTube Shorts and X once daily limits are hit and replaces mindless scrolling with bite-sized knowledge cards, plus custom schedules and a Life Grid screen-time view.
 
-- Swift + SwiftUI, Screen Time API
-- Three-tier StoreKit subscription via RevenueCat; onboarding, activation and paywall funnel tracked in Mixpanel
-- **+33% trial conversion** through paywall A/B testing and pricing optimization
-- Regular updates since the January 2025 launch, now v2.1 as a universal iPhone and iPad app
+- Swift + SwiftUI; blocking engine built on Apple's Screen Time API with FamilyControls, ManagedSettings and a DeviceActivityMonitor extension that enforces daily limits and custom schedules in the background
+- StoreKit in-app purchases via RevenueCat with weekly and annual plans (7-day free trial); onboarding, activation and paywall funnel tracked in Mixpanel
+- **+33% paywall-to-trial conversion** through paywall A/B testing and pricing optimization
+- Universal iPhone and iPad app, maintained with regular updates since the January 2025 launch
 - Built end to end: architecture, UI/UX, App Store Connect release and post-launch growth
 
 ### More on the App Store
@@ -22,8 +22,8 @@ Blocks TikTok, Instagram, YouTube Shorts and X once daily limits are hit and rep
 
 ## 🛠 Tech stack
 
-- **iOS:** Swift · SwiftUI · UIKit · StoreKit · Screen Time API · Core Data · URLSession · Codable · MVVM · MVC
-- **Quality:** code review · debugging & root-cause analysis
+- **iOS:** Swift · SwiftUI · UIKit · StoreKit · Screen Time API (FamilyControls, DeviceActivity, ManagedSettings) · Core Data · URLSession · Codable · MVVM · MVC
+- **Quality:** debugging & root-cause analysis
 - **Growth:** ASO · SEO · onboarding & paywall A/B testing · pricing · short-form video · Reddit · X · Product Hunt
 - **Tools:** Xcode · Git · TestFlight · App Store Connect · Firebase · CocoaPods · RevenueCat · Mixpanel · SQL
 
